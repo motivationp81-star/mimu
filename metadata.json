@@ -1,0 +1,6 @@
+{
+  "name": "My Smart AI — Hinglish Creative Studio",
+  "description": "An advanced, friendly AI assistant conversing in natural Hinglish for video animation prompts, music concepts, creative ideas, and daily productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
